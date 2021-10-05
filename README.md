@@ -1,3 +1,3 @@
-# MetaVerse Market Contracts
-Smart Contracts that manage the deployment of MetaVerse Land tokens
+# MortgageDAO Land Tokens
+NFT's that represent 3X3 metter sections of earths surface. To be used as Title Documents in Mortgage process.
 
